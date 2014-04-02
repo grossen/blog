@@ -1,14 +1,14 @@
 {
-  "name": "the-new-sandbox",
+  "name": "blog",
   "version": "0.5.0",
-  "description": "Sandbox site featuring typical Apostrophe features",
+  "description": "Blog site",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/punkave/apostrophe-sandbox"
+    "url": "https://github.com/grossen/blog"
   },
   "author": "P'unk Avenue",
   "license": "BSD",
